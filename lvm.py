@@ -5,7 +5,6 @@ reg=0
 for i in range(n):
     x=list(input().split())
     l.append(x)
-
 i=0
 while i<n:
     if l[i][0]=='PUSH':
